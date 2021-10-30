@@ -15,7 +15,7 @@ String get contactUsStr => "Contactanos";
 String get locationStr => "Ubicacion";
 String get knowUsStr => "Conocenos";
 String get loginStr => "Iniciar Sesión";
-String get copyrightStr => "Copyright © 2021 | CODIGOFACILITO";
+String get copyrightStr => "Copyright © 2021 | Iñaki-Lapeyre";
 String get emailStr => "Correo";
 String get addressStr => "Direccion";
 String get paymentStr => "Pagos";
@@ -33,6 +33,6 @@ String get facebookStr => "Facebook";
 String get instagramStr => "Instagram";
 
 //Datos default
-String get nameStr => "Marines Méndez";
-String get emailDefaultStr => "marines@codigofacilito.com";
-String get addressDefaultStr => "Av. flores #1234 col. Clavel";
+String get nameStr => "Iñaki Agustin Lapeyre";
+String get emailDefaultStr => "iniaki.lapeyre@gmail.com";
+String get addressDefaultStr => "Calle Falsa 123 col. Clavel";

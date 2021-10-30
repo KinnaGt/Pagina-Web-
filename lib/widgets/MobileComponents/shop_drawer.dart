@@ -27,7 +27,7 @@ class _ShopDrawerState extends State<ShopDrawer> {
                   accountName: Text(nameStr,style:Theme.of(context).textTheme.headline6),
                   accountEmail: Text(emailDefaultStr),
                   decoration: BoxDecoration(color: Theme.of(context).backgroundColor),
-                  currentAccountPicture: CircleAvatar(backgroundImage: AssetImage('assets/images/cody.jpg')),
+                  currentAccountPicture: CircleAvatar(backgroundImage: AssetImage('assets/images/gin.jpg')),
                 ),
                 getItem(
                   onTap: () {},
